@@ -2,6 +2,8 @@ const { CommandoClient } = require('discord.js-commando');
 const auth = require('./config.json');
 const path = require('path');
 
+
+//test commit 3
 const client = new CommandoClient({
     commandPrefix: '!',
     owner: '246632397863387139',
