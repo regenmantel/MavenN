@@ -3,6 +3,11 @@ const auth = require('./config.json');
 const path = require('path');
 
 
+//fwfawfwaf
+//fwafwf
+//fwafwf
+
+
 const client = new CommandoClient({
     commandPrefix: '!',
     owner: '246632397863387139',
