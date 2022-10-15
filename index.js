@@ -25,3 +25,4 @@ client.registry
 .registerCommandsIn(path.join(__dirname, 'commands'));
 
 client.login(auth.TOKEN);
+
